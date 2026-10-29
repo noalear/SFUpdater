@@ -1,2 +1,2 @@
-{"latest": "be76843", "version": "0.1.0", "base": "bfcc14e", "installer": "https://drive.google.com/file/d/1xAcmV3v4agDk25Q6vmtaA_xgXHyXHVy7/view",
- "published": "2026-10-29T21:41:16Z", "patches": {"bfcc14e": {"url": "https://raw.githubusercontent.com/noalear/SFUpdater/main/patches/be76843.pck", "size": 26480192, "sha256": "10ec175f3a1726957da2df8924e15ba8a7cb6a7a0d41e6715d1bbb14c0211d5b"}}}
+{"latest": "068740e", "version": "0.1.0", "base": "bfcc14e", "installer": "https://drive.google.com/file/d/1xAcmV3v4agDk25Q6vmtaA_xgXHyXHVy7/view",
+ "published": "2026-10-29T22:23:22Z", "patches": {"bfcc14e": {"url": "https://raw.githubusercontent.com/noalear/SFUpdater/main/patches/068740e.pck", "size": 26480336, "sha256": "53977d2db2b551cefa17a0de331ea7486e616699277c08035c50bcd8d7229630"}}}
