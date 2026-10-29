@@ -1,2 +1,2 @@
-{"latest": "bfcc14e", "version": "0.1.0", "base": "bfcc14e", "installer": "https://drive.google.com/file/d/1xAcmV3v4agDk25Q6vmtaA_xgXHyXHVy7/view",
- "published": "2026-10-29T02:17:10Z", "patches": {}}
+{"latest": "7417c2e", "version": "0.1.0", "base": "bfcc14e", "installer": "https://drive.google.com/file/d/1xAcmV3v4agDk25Q6vmtaA_xgXHyXHVy7/view",
+ "published": "2026-10-29T04:10:33Z", "patches": {"bfcc14e": {"url": "https://raw.githubusercontent.com/noalear/SFUpdater/main/patches/7417c2e.pck", "size": 387912, "sha256": "9dbf7326374be4f3b9a022b435dd472721b85bfb53bc0fc2ca1c57e280fe0518"}}}
