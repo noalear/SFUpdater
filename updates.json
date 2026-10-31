@@ -1,2 +1,2 @@
-{"latest": "3d2ca24", "version": "0.1.0", "base": "7708371", "installer": "https://drive.google.com/file/d/1xAcmV3v4agDk25Q6vmtaA_xgXHyXHVy7/view",
- "published": "2026-10-31T03:31:49Z", "patches": {"7708371": {"url": "https://raw.githubusercontent.com/noalear/SFUpdater/main/patches/3d2ca24.pck", "size": 8597660, "sha256": "9acbf4cc4e854e9ed10e8f6ac8b7ae77f0284d1e00333c692cf131ca5a8811f2"}}}
+{"latest": "a3323ba", "version": "0.1.0", "base": "7708371", "installer": "https://drive.google.com/file/d/1xAcmV3v4agDk25Q6vmtaA_xgXHyXHVy7/view",
+ "published": "2026-10-31T08:34:54Z", "patches": {"7708371": {"url": "https://raw.githubusercontent.com/noalear/SFUpdater/main/patches/a3323ba.pck", "size": 9261648, "sha256": "51d08da803d0a31e36f857fde0e7098618ec0a36b5924f80553ccfd125defd0c"}}}
