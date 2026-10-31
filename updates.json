@@ -1,2 +1,2 @@
-{"latest": "7708371", "version": "0.1.0", "base": "7708371", "installer": "https://drive.google.com/file/d/1xAcmV3v4agDk25Q6vmtaA_xgXHyXHVy7/view",
- "published": "2026-10-31T01:57:52Z", "patches": {}}
+{"latest": "33fc438", "version": "0.1.0", "base": "7708371", "installer": "https://drive.google.com/file/d/1xAcmV3v4agDk25Q6vmtaA_xgXHyXHVy7/view",
+ "published": "2026-10-31T03:09:45Z", "patches": {"7708371": {"url": "https://raw.githubusercontent.com/noalear/SFUpdater/main/patches/33fc438.pck", "size": 8041260, "sha256": "70cfff07976ef220001f1be1aef92faf749c89700125f274343bb335318fe7c3"}}}
